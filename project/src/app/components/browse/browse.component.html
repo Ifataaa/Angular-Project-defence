@@ -1,0 +1,6 @@
+<h1>Browse Artisans</h1>
+<ul>
+  <li *ngFor="let artisan of artisans">
+    <a [routerLink]="['/dashboard/products', artisan.id]">{{ artisan.name }}</a>
+  </li>
+</ul>

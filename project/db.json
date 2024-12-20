@@ -1,0 +1,53 @@
+{
+    "artisans": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "bio": "Experienced woodworker specializing in custom furniture.",
+        "profileImageUrl": "https://example.com/images/john.jpg",
+        "location": "New York, USA",
+        "products": [
+          {
+            "id": 101,
+            "name": "Handcrafted Wooden Chair",
+            "description": "A beautifully handcrafted wooden chair made from oak.",
+            "price": 150.00,
+            "imageUrl": "https://example.com/images/chair.jpg"
+          },
+          {
+            "id": 102,
+            "name": "Oak Dining Table",
+            "description": "A large dining table made from solid oak.",
+            "price": 1200.00,
+            "imageUrl": "https://example.com/images/table.jpg"
+          }
+        ],
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "bio": "Ceramic artist creating unique pottery pieces.",
+        "profileImageUrl": "https://example.com/images/jane.jpg",
+        "location": "Los Angeles, USA",
+        "products": [
+          {
+            "id": 201,
+            "name": "Ceramic Vase",
+            "description": "A unique ceramic vase with a modern design.",
+            "price": 75.00,
+            "imageUrl": "https://example.com/images/vase.jpg"
+          },
+          {
+            "id": 202,
+            "name": "Pottery Bowl Set",
+            "description": "A set of three handmade pottery bowls.",
+            "price": 60.00,
+            "imageUrl": "https://example.com/images/bowls.jpg"
+          }
+        ],
+        "rating": 4.8
+      }
+    ]
+  }
+  
